@@ -29,7 +29,7 @@ export default function Home() {
               <span className="text-lg font-bold tracking-wider">CyberWolf</span>
             </div>
             <p className="text-sm">© {new Date().getFullYear()} CyberWolf. All rights reserved.</p>
-            <p className="text-xs mt-2 text-blue-400/50">Ethical Hacker | Bug Bounty Hunter | AI Recon Specialist</p>
+            <p className="text-xs mt-2 text-blue-400/50">Ethical Hacker | Bug Bounty Hunter | AI Recon Specialist by.NF</p>
           </div>
         </footer>
       </div>
